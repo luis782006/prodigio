@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Prodigios", "Prodigios\Prodigios.vbproj", "{FB6AD4A6-E64A-47C7-BF2B-1953E63EF402}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB6AD4A6-E64A-47C7-BF2B-1953E63EF402}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB6AD4A6-E64A-47C7-BF2B-1953E63EF402}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB6AD4A6-E64A-47C7-BF2B-1953E63EF402}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB6AD4A6-E64A-47C7-BF2B-1953E63EF402}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
